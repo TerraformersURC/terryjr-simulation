@@ -1,0 +1,6 @@
+Invoking command in '/home/patrick/terry-jr/build/terryjr_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/patrick/terry-jr/src/terryjr_description -DCMAKE_INSTALL_PREFIX=/home/patrick/terry-jr/install/terryjr_description
+Invoked command in '/home/patrick/terry-jr/build/terryjr_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/patrick/terry-jr/src/terryjr_description -DCMAKE_INSTALL_PREFIX=/home/patrick/terry-jr/install/terryjr_description
+Invoking command in '/home/patrick/terry-jr/build/terryjr_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/patrick/terry-jr/build/terryjr_description -- -j4 -l4
+Invoked command in '/home/patrick/terry-jr/build/terryjr_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/patrick/terry-jr/build/terryjr_description -- -j4 -l4
+Invoking command in '/home/patrick/terry-jr/build/terryjr_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/patrick/terry-jr/build/terryjr_description
+Invoked command in '/home/patrick/terry-jr/build/terryjr_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/patrick/terry-jr/build/terryjr_description

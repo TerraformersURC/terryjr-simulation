@@ -1,0 +1,4 @@
+source;share/terryjr_description/local_setup.bash
+source;share/terryjr_description/local_setup.dsv
+source;share/terryjr_description/local_setup.sh
+source;share/terryjr_description/local_setup.zsh

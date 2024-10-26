@@ -1,0 +1,39 @@
+[0.021s] Invoking command in '/home/patrick/terry-jr/build/terryjr_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/patrick/terry-jr/build/terryjr_description -- -j4 -l4
+[0.091s] Invoked command in '/home/patrick/terry-jr/build/terryjr_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/patrick/terry-jr/build/terryjr_description -- -j4 -l4
+[0.153s] Invoking command in '/home/patrick/terry-jr/build/terryjr_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/patrick/terry-jr/build/terryjr_description
+[0.165s] -- Install configuration: ""
+[0.166s] -- Execute custom install script
+[0.167s] -- Up-to-date symlink: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/meshes/base_link.stl
+[0.168s] -- Up-to-date symlink: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/meshes/left_balance_link.stl
+[0.168s] -- Up-to-date symlink: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/meshes/mid_balance_link.stl
+[0.168s] -- Up-to-date symlink: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/meshes/right_balance_link.stl
+[0.168s] -- Up-to-date symlink: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/meshes/wheel_front_left.stl
+[0.168s] -- Up-to-date symlink: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/meshes/wheel_front_right.stl
+[0.168s] -- Up-to-date symlink: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/meshes/wheel_link_left.stl
+[0.169s] -- Up-to-date symlink: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/meshes/wheel_link_right.stl
+[0.169s] -- Up-to-date symlink: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/meshes/wheel_rear_left.stl
+[0.169s] -- Up-to-date symlink: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/meshes/wheel_rear_right.stl
+[0.171s] -- Up-to-date symlink: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/urdf/gazebo.xacro
+[0.171s] -- Up-to-date symlink: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/urdf/joints.xacro
+[0.171s] -- Up-to-date symlink: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/urdf/links.xacro
+[0.171s] -- Up-to-date symlink: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/urdf/rover.xacro
+[0.171s] -- Up-to-date symlink: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/urdf/transmissions.xacro
+[0.171s] -- Up-to-date symlink: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/launch/controllers.launch.py
+[0.172s] -- Up-to-date symlink: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/launch/gazebo.xml
+[0.173s] -- Up-to-date symlink: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/launch/gazebo_simulation.launch.py
+[0.173s] -- Up-to-date symlink: /home/patrick/terry-jr/install/terryjr_description/share/ament_index/resource_index/package_run_dependencies/terryjr_description
+[0.173s] -- Up-to-date symlink: /home/patrick/terry-jr/install/terryjr_description/share/ament_index/resource_index/parent_prefix_path/terryjr_description
+[0.173s] -- Up-to-date symlink: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/environment/ament_prefix_path.sh
+[0.173s] -- Up-to-date symlink: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/environment/ament_prefix_path.dsv
+[0.173s] -- Up-to-date symlink: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/environment/path.sh
+[0.173s] -- Up-to-date symlink: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/environment/path.dsv
+[0.173s] -- Up-to-date symlink: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/local_setup.bash
+[0.173s] -- Up-to-date symlink: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/local_setup.sh
+[0.173s] -- Up-to-date symlink: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/local_setup.zsh
+[0.174s] -- Up-to-date symlink: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/local_setup.dsv
+[0.174s] -- Symlinking: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/package.dsv
+[0.189s] -- Up-to-date symlink: /home/patrick/terry-jr/install/terryjr_description/share/ament_index/resource_index/packages/terryjr_description
+[0.189s] -- Up-to-date symlink: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/cmake/terryjr_descriptionConfig.cmake
+[0.189s] -- Up-to-date symlink: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/cmake/terryjr_descriptionConfig-version.cmake
+[0.190s] -- Up-to-date symlink: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/package.xml
+[0.193s] Invoked command in '/home/patrick/terry-jr/build/terryjr_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/patrick/terry-jr/build/terryjr_description

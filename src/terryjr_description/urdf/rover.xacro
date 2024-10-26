@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<robot name="terryjr" xmlns:xacro="http://www.ros.org/wiki/xacro">
+
+<xacro:include filename="$(find terryjr_description)/urdf/links.xacro" />
+<xacro:include filename="$(find terryjr_description)/urdf/joints.xacro" />
+<xacro:include filename="$(find terryjr_description)/urdf/transmissions.xacro" />
+<!-- <xacro:include filename="$(find terryjr_description)/urdf/gazebo.xacro" /> -->
+
+</robot>

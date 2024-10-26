@@ -1,0 +1,1 @@
+/home/patrick/terry-jr/build/terryjr_description/ament_cmake_core/terryjr_descriptionConfig.cmake

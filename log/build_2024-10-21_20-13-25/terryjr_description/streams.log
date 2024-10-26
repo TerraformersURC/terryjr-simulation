@@ -1,0 +1,60 @@
+[0.024s] Invoking command in '/home/patrick/terry-jr/build/terryjr_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/patrick/terry-jr/src/terryjr_description -DCMAKE_INSTALL_PREFIX=/home/patrick/terry-jr/install/terryjr_description
+[0.262s] -- The C compiler identification is GNU 11.4.0
+[0.445s] -- The CXX compiler identification is GNU 11.4.0
+[0.466s] -- Detecting C compiler ABI info
+[0.582s] -- Detecting C compiler ABI info - done
+[0.592s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.593s] -- Detecting C compile features
+[0.595s] -- Detecting C compile features - done
+[0.603s] -- Detecting CXX compiler ABI info
+[0.727s] -- Detecting CXX compiler ABI info - done
+[0.738s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.740s] -- Detecting CXX compile features
+[0.741s] -- Detecting CXX compile features - done
+[0.762s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.012s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.288s] -- Configuring done
+[1.292s] -- Generating done
+[1.293s] -- Build files have been written to: /home/patrick/terry-jr/build/terryjr_description
+[1.299s] Invoked command in '/home/patrick/terry-jr/build/terryjr_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/patrick/terry-jr/src/terryjr_description -DCMAKE_INSTALL_PREFIX=/home/patrick/terry-jr/install/terryjr_description
+[1.303s] Invoking command in '/home/patrick/terry-jr/build/terryjr_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/patrick/terry-jr/build/terryjr_description -- -j4 -l4
+[1.371s] Invoked command in '/home/patrick/terry-jr/build/terryjr_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/patrick/terry-jr/build/terryjr_description -- -j4 -l4
+[1.463s] Invoking command in '/home/patrick/terry-jr/build/terryjr_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/patrick/terry-jr/build/terryjr_description
+[1.478s] -- Install configuration: ""
+[1.479s] -- Installing: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/meshes
+[1.479s] -- Installing: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/meshes/wheel_rear_right.stl
+[1.483s] -- Installing: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/meshes/wheel_link_left.stl
+[1.485s] -- Installing: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/meshes/right_balance_link.stl
+[1.487s] -- Installing: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/meshes/wheel_front_left.stl
+[1.489s] -- Installing: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/meshes/wheel_front_right.stl
+[1.491s] -- Installing: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/meshes/mid_balance_link.stl
+[1.493s] -- Installing: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/meshes/left_balance_link.stl
+[1.494s] -- Installing: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/meshes/wheel_rear_left.stl
+[1.496s] -- Installing: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/meshes/wheel_link_right.stl
+[1.498s] -- Installing: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/meshes/base_link.stl
+[1.499s] -- Installing: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/urdf
+[1.500s] -- Installing: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/urdf/transmissions.xacro
+[1.501s] -- Installing: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/urdf/rover.xacro
+[1.502s] -- Installing: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/urdf/links.xacro
+[1.503s] -- Installing: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/urdf/joints.xacro
+[1.503s] -- Installing: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/urdf/gazebo.xacro
+[1.504s] -- Installing: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/launch
+[1.504s] -- Installing: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/launch/gazebo.xml
+[1.505s] -- Installing: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/launch/gazebo_simulation.launch.py
+[1.505s] -- Installing: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/launch/controllers.launch.py
+[1.506s] -- Installing: /home/patrick/terry-jr/install/terryjr_description/share/ament_index/resource_index/package_run_dependencies/terryjr_description
+[1.506s] -- Installing: /home/patrick/terry-jr/install/terryjr_description/share/ament_index/resource_index/parent_prefix_path/terryjr_description
+[1.507s] -- Installing: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/environment/ament_prefix_path.sh
+[1.507s] -- Installing: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/environment/ament_prefix_path.dsv
+[1.508s] -- Installing: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/environment/path.sh
+[1.508s] -- Installing: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/environment/path.dsv
+[1.508s] -- Installing: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/local_setup.bash
+[1.509s] -- Installing: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/local_setup.sh
+[1.509s] -- Installing: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/local_setup.zsh
+[1.510s] -- Installing: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/local_setup.dsv
+[1.510s] -- Installing: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/package.dsv
+[1.510s] -- Installing: /home/patrick/terry-jr/install/terryjr_description/share/ament_index/resource_index/packages/terryjr_description
+[1.511s] -- Installing: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/cmake/terryjr_descriptionConfig.cmake
+[1.511s] -- Installing: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/cmake/terryjr_descriptionConfig-version.cmake
+[1.511s] -- Installing: /home/patrick/terry-jr/install/terryjr_description/share/terryjr_description/package.xml
+[1.516s] Invoked command in '/home/patrick/terry-jr/build/terryjr_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/patrick/terry-jr/build/terryjr_description
