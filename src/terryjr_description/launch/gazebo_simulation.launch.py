@@ -64,18 +64,7 @@ def generate_launch_description():
     )
     launch_description.add_action(robot_state_publisher_node)
 
-    # Gazebo nodes
-    gazebo = IncludeLaunchDescription(
-        PythonLaunchDescriptionSource(
-            [FindPackageShare("gazebo_ros"), "/launch", "/gazebo.launch.py"]
-        ),
-        launch_arguments={
-            "gui": 'true',
-        }.items(),
-    )
-    launch_description.add_action(gazebo)
-
-    # Spawn robot
+   # Spawn robot
     gazebo_spawn_robot = Node(
         package="gazebo_ros",
         executable="spawn_entity.py",
@@ -84,6 +73,19 @@ def generate_launch_description():
         output="screen",
     )
     launch_description.add_action(gazebo_spawn_robot)
+
+    # Gazebo nodes
+    gazebo = IncludeLaunchDescription(
+        PythonLaunchDescriptionSource(
+            [FindPackageShare("gazebo_ros"), "/launch", "/gazebo.launch.py"]
+        ),
+        launch_arguments={
+            "gui": 'true',
+            "pause": 'true',
+        }.items(),
+    )
+    launch_description.add_action(gazebo)
+
     rviz_node = Node(
         package="rviz2",
         executable="rviz2",

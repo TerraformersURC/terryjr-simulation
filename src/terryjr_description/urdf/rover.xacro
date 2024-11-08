@@ -3,7 +3,7 @@
 
 <xacro:include filename="$(find terryjr_description)/urdf/links.xacro" />
 <xacro:include filename="$(find terryjr_description)/urdf/joints.xacro" />
-<xacro:include filename="$(find terryjr_description)/urdf/transmissions.xacro" />
+<!-- <xacro:include filename="$(find terryjr_description)/urdf/transmissions.xacro" /> -->
 <!-- <xacro:include filename="$(find terryjr_description)/urdf/gazebo.xacro" /> -->
 
 </robot>
